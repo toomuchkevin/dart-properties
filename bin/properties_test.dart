@@ -1,5 +1,5 @@
-import '../lib/properties.dart';
-import '../packages/unittest/unittest.dart';
+import 'properties.dart';
+import 'package:unittest/unittest.dart';
 
 void main(){
   
